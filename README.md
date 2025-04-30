@@ -1,7 +1,7 @@
 # Alzheimer_Detection
 Leveraging MRI scans to detect Alzheimer's disease using CNN and vision transformers, aimed at enhancing diagnostic accuracy and supporting early intervention.
 
-The app is live here: [https://detect-alzheimer.streamlit.app/](https://alzheimer-disease-by-amit.streamlit.app/)
+The app is live here: [Streamlit App Deployed Link !!](https://alzheimer-disease-by-amit.streamlit.app/)
 
 ## Introduction
 This repository contains a deep learning framework designed to detect Alzheimer's disease using MRI scan images. The project aims to assist radiologists and medical professionals in early diagnosis through automated image analysis.
